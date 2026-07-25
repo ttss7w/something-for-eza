@@ -126,10 +126,10 @@ export default function BirthdayBackground() {
   absolute
   left-10
   bottom-24
-  max-md:bottom-1
+  max-md:bottom-0
   z-10
   w-60
-  max-md:w-32
+  max-md:w-25
   select-none
   pointer-events-none
   mix-blend-multiply
@@ -178,7 +178,7 @@ export default function BirthdayBackground() {
         max-md:bottom-[-15px]
         z-10
         w-90
-        max-md:w-40
+        max-md:w-30
         select-none
         pointer-events-none
         mix-blend-multiply
