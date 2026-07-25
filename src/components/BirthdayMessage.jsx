@@ -1,4 +1,5 @@
 import { motion } from "framer-motion"
+import pinkBow from "../assets/images/pink-bow.png"
 
 export default function BirthdayMessage() {
   return (
@@ -74,7 +75,7 @@ export default function BirthdayMessage() {
           <span className="relative inline-block">
             {/* Pink bow */}
             <img
-              src="/src/assets/images/pink-bow.png"
+              src={pinkBow}
               alt="bow"
               className="
               absolute
